@@ -1,2 +1,15 @@
-# LogisticRegression
-In this project, A Logistic Regression model has been developed after analyzing  the kaggle titanic dataset. I have achieved 0.96 accuracy from the given dataset after analyzing different parameters.
+# Machine Learning Practises
+
+This repository contains all my Data Science and Machine Learning practises. The problems that are solved till now-
+
+> Predictive Analysis on Passenge Survival on Titanic dataset using Logistic Regression and Decision Tree Model
+
+
+
+## Requirements
+
+I have used anaconda3 environment. If you like to get the complete environment including Jupyter Notebook, run this command
+
+```
+pip install -r requirements.txt
+```
